@@ -13,10 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoltaehyeok&layout=compact)](https://github.com/seoltaehyeok/github-readme-stats)
+--> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoltaehyeok&layout=compact)](https://github.com/seoltaehyeok/github-readme-stats)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoltaehyeok)](https://github.com/seoltaehyeok/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoltaehyeok&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoltaehyeok&show_icons=true&theme=cobalt)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=seoltaehyeok)](https://github.com/seoltaehyeok/github-readme-stats)
-
-
