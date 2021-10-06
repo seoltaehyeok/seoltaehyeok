@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 --> 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoltaehyeok&layout=compact)](https://github.com/seoltaehyeok/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoltaehyeok)](https://github.com/seoltaehyeok/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ajaj3122)](https://solved.ac/ajaj3122/)
