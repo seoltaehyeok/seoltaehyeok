@@ -27,7 +27,7 @@ Here are some ideas to get you started:
  
  <img src="https://img.shields.io/badge/Spring Boot-white?style=flat&logo=Spring Boot&logoColor=6DB33F"/> <img src="https://img.shields.io/badge/Postman-white?style=flat&logo=Postman&logoColor=FF6C37"/> <img src="https://img.shields.io/badge/MySQL-white?style=flat&logo=MySQL&logoColor=4479A1"/>
  
- <img src="https://img.shields.io/badge/Git-white?style=flat&logo=Git&logoColor=F05032"/> <img src="https://img.shields.io/badge/GitHub-white?style=flat&logo=GitHub&logoColor=181717"/>
+ <img src="https://img.shields.io/badge/Git-white?style=flat&logo=Git&logoColor=F05032"/> <img src="https://img.shields.io/badge/GitHub-white?style=flat&logo=GitHub&logoColor=181717"/> <img src="https://img.shields.io/badge/Notion-white?style=flat&logo=Notion&logoColor=000000"/>
  
   <img src="https://img.shields.io/badge/Visual Studio-white?style=flat&logo=Visual Studio&logoColor=5C2D91"/> <img src="https://img.shields.io/badge/Visual Studio Code-white?style=flat&logo=Visual Studio Code&logoColor=007ACC"/> <img src="https://img.shields.io/badge/Eclipse IDE-white?style=flat&logo=Eclipse IDE&logoColor=2C2255"/>
   
