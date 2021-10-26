@@ -1,3 +1,6 @@
+<div align="center">
+
+
 <!-- <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header&text=Taehyeok%20profile&fontSize=60" /> -->
 <!--
 **seoltaehyeok/seoltaehyeok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 
+## 🌱 Hi There, I'm Junior Web Developer 🌱
+ #### I hope to be a full stack developer who can provide beneficial services. 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoltaehyeok&layout=compact)](https://github.com/seoltaehyeok/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ajaj3122)](https://solved.ac/ajaj3122/)
 
@@ -41,7 +45,7 @@ Here are some ideas to get you started:
 
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseoltaehyeok%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=ghostery.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-
+</div>
 
 
 
