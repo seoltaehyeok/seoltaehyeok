@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 🌱 Hi There, I'm Junior Web Developer 🌱
+## 🌱 Hi there, I'm Junior Web Developer 🌱
  #### I hope to be a full stack developer who can provide beneficial services. 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoltaehyeok&layout=compact)](https://github.com/seoltaehyeok/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ajaj3122)](https://solved.ac/ajaj3122/)
