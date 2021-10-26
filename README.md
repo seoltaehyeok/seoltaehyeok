@@ -1,4 +1,7 @@
 ### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Taehyeok%20profile&fontSize=60" />
+
+
 
 <!--
 **seoltaehyeok/seoltaehyeok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoltaehyeok&layout=compact)](https://github.com/seoltaehyeok/github-readme-stats)
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ajaj3122)](https://solved.ac/ajaj3122/)
