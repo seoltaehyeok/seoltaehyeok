@@ -13,10 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoltaehyeok&layout=compact)](https://github.com/seoltaehyeok/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ajaj3122)](https://solved.ac/ajaj3122/)
 
-### 🌳 Tech Stack 🌳
+## 🌳 Tech Stack 🌳
 
 ##### ✏ The stack that I used at least once
 
@@ -36,6 +37,7 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/noth_ingisbetter/">
     <img src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://www.instagram.com/noth_ingisbetter/">
 </a>
+<img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com"/>
 
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseoltaehyeok%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=ghostery.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
