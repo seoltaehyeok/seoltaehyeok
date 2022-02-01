@@ -29,7 +29,6 @@ Here are some ideas to get you started:
  
  <img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/C-white?style=flat&logo=C&logoColor=A8B9CC"/> <img src="https://img.shields.io/badge/Java-white?style=flat&logo=Java&logoColor=007396"/> <img src="https://img.shields.io/badge/jQuery-white?style=flat&logo=jQuery&logoColor=0769AD"/> <img src="https://img.shields.io/badge/JSON-white?style=flat&logo=JSON&logoColor=000000"/>
 
- 
  <img src="https://img.shields.io/badge/Spring Boot-white?style=flat&logo=Spring Boot&logoColor=6DB33F"/> <img src="https://img.shields.io/badge/Postman-white?style=flat&logo=Postman&logoColor=FF6C37"/> <img src="https://img.shields.io/badge/MySQL-white?style=flat&logo=MySQL&logoColor=4479A1"/>
  
  <img src="https://img.shields.io/badge/Git-white?style=flat&logo=Git&logoColor=F05032"/> <img src="https://img.shields.io/badge/GitHub-white?style=flat&logo=GitHub&logoColor=181717"/> <img src="https://img.shields.io/badge/Notion-white?style=flat&logo=Notion&logoColor=000000"/>
